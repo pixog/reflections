@@ -4,4 +4,7 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 -Stores only the files for the next commit. Useful because you can customize your commits to only include logically related files.
 
+How can you use the staging area to make sure you have one commit per logical change?
+-Only add files that include changes related to one logical change...
+
 
